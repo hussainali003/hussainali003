@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hussainali003
-- 👀 I’m interested in javaScipt and AI . i Want to be a best programmer in a world
-- 🌱 I’m currently learning  in college 
+- 👀 I’m interested in javaScipt, react and react native. 
 - 💞️ I’m looking to collaborate on react and javascript 
-- 📫 How to reach me . if you want to reach me just contact me on facebook . here is my id hussain ali and here is my       whatapps number 03111040571 . i am currently living in pakistan , karachi . 
+- 📫 How to reach me . if you want to reach me just contact me on facebook . here is my id hussain ali and here is my whatapps number 03111040571.
