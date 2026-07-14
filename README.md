@@ -10,7 +10,7 @@
 Full Stack Developer • Turning ideas into scalable web applications, one commit at a time.
 </h3>
 
-https://streak-stats.demolab.com
+[![GitHub Streak](https://streak-stats.demolab.com?user=hussainali003)](https://git.io/streak-stats)
 
 <p align="center">
 I enjoy building software that feels simple on the outside and thoughtfully engineered underneath. Most of my time is spent designing APIs, building responsive interfaces, and figuring out why a bug only appears five minutes before deployment. Somewhere between frontend pixels and backend logic is where I feel at home.
