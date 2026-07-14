@@ -24,36 +24,6 @@ I enjoy building software that's easy to use, difficult to break, and satisfying
 - 🚀 4+ years of experience building modern web applications
 - ⚛️ Working with **React, React Native, Node.js, Express & PostgreSQL**
 - 🏗 Passionate about clean architecture and scalable backend systems
-- 📚 Always learning better engineering practices and software design
-- 🌍 I enjoy building products that solve real-world problems
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
 
 ---
 
@@ -63,16 +33,6 @@ I enjoy building software that's easy to use, difficult to break, and satisfying
 - ⚛️ Building scalable React & Node.js solutions
 - 🏗 Improving software architecture and backend performance
 - 📖 Learning more about system design and engineering best practices
-
----
-
-# 👀 Interests
-
-- 🏗 Clean Architecture
-- ⚡ Scalable APIs
-- 🔄 Full Stack Development
-- 🎨 Building intuitive user experiences
-- 📚 Continuous learning
 
 ---
 
@@ -103,36 +63,6 @@ https://hussain-ali-profile.netlify.app/
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hussainali003&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussainali003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🤝 Looking to Collaborate On
-
-- Full Stack Applications
-- SaaS Products
-- Open Source Projects
-- Developer Tools
-- Interesting Startup Ideas
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/hussain-ali-755120295/
-
-🌐 **Portfolio**
-
-https://hussain-ali-profile.netlify.app/
-
-📧 **Email**
-
-hussainali9203@gmail.com
-
 </p>
 
 ---
