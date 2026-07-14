@@ -97,6 +97,14 @@ https://hussain-ali-profile.netlify.app/
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainali003&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hussainali003&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hussainali003&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussainali003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
