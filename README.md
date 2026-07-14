@@ -67,6 +67,9 @@ I enjoy building software that feels simple on the outside and thoughtfully engi
 - 🧩 Exploring better ways to build maintainable full-stack applications
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Software+That+Scales" />
+</p>
 
 ## 🤝 Looking to Collaborate On
 
