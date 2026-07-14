@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Software+That+Scales" />
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=hussainali003&color=blue)
 <h3 align="center">
 Full Stack Developer • Turning ideas into scalable web applications, one commit at a time.
 </h3>
