@@ -42,6 +42,10 @@ I enjoy building software that's easy to use, difficult to break, and satisfying
 
 A productivity application for tracking progress, organizing tasks, and monitoring daily goals through a clean and intuitive interface.
 
+🔗 **Live Demo**
+
+https://progress-tracker-web-ten.vercel.app/
+
 ---
 
 ## 🌐 My Portfolio
